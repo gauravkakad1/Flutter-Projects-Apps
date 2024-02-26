@@ -1,4 +1,4 @@
-#Tue Sep 19 21:56:43 IST 2023
-base.0=C\:\\Users\\hp\\AndroidStudioProjects\\M-Box-Login-UI\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Tue Oct 03 08:25:56 IST 2023
+base.0=D\:\\AndroidStudioProjects\\M-Box-Login-UI\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

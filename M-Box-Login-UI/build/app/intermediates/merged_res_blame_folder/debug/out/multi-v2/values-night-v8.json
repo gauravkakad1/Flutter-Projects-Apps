@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\hp\\AndroidStudioProjects\\M-Box-Login-UI\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\M-Box-Login-UI\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hp\\AndroidStudioProjects\\M-Box-Login-UI\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\AndroidStudioProjects\\M-Box-Login-UI\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
